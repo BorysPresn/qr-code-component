@@ -39,6 +39,7 @@ body {
     border-radius: 10px;
     overflow: hidden;
     margin-bottom: 27px;
+    max-height: 290px;
 }
 img {
     width: 100%;
